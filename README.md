@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
 <h3 align="center">A Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heatblastee" alt="heatblastee" /></a> </p>
 
 - 🔭 I’m currently working on [Crackna](crackna.com)
 

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
-<h3 align="center">A Web developer</h3>
+<h3 align="center">A Web developer and CP Enthusiast</h3>
 
 
 - 🔭 I’m currently working on [Crackna](crackna.com)
 
-- 🌱 I’m currently learning **Devops and AI/ML**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://heatblast.vercel.app/](https://heatblast.vercel.app/)
 
